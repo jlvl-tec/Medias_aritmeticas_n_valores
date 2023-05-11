@@ -11,7 +11,7 @@ Algoritmo media_aritmetica
 	FinMientras
 	
 	
-	Para i<-1 hasta n+1 Hacer
+	Para i<-1 hasta n Hacer
 		Escribir "Ingrese el dato ",i,":"
 		leer dato		
 		acum=acum+dato
